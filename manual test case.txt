@@ -1,0 +1,10 @@
+1. Verify if the dialog box has close button.
+2. Verify if the dialog box has help icon button at right hand corner.
+3. Verify if the dialog box has Find in Files, Replace and Mark tabs.
+4. Verify if the dialog box has find next and close button.
+5. Verify if the dialog box opens find tab by default when the dialog box is invoked.
+6. Verify if the dialog box has search box with specification size under the find tab.
+7. Verify if the search string if typed in search box for “find” tab.
+8. Verify if the search string results are shown in new dialog after the string search is complete.
+9. Verify if the dialogbox has “Match Case” Checkbox.
+10.Verify if the dialogbox has “Match Whole word only” Checkbox.
